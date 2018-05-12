@@ -1,0 +1,32 @@
+_repo: Bonaparte-in-Egypt-and-the-Egyptians-of-To-day_39971
+_version: 0.1.0
+alternative_title: Bonaparte in Egypt and the Egyptians of Today
+covers:
+- cover_type: archival
+  image_path: 39971-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Browne, Abdullah
+    aliases:
+    - Browne, Haji A.
+    - Browne, A., haji
+    gutenberg_agent_id: '40344'
+    url: http://www.gutenberg.org/2009/agents/40344
+description: ''
+gutenberg_issued: '2012-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39971'
+  lccn: 07042482
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Egypt -- History -- French occupation, 1798-1801'
+- !lcsh 'Second Coalition, War of the, 1798-1801 -- Campaigns -- Egypt'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Relations with Egyptians'
+- !lcsh 'Egypt -- History -- British occupation, 1882-1936'
+title: Bonaparte in Egypt and the Egyptians of To-day
+url: http://www.gutenberg.org/ebooks/39971
